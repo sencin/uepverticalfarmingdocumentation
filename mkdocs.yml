@@ -1,0 +1,10 @@
+site_name: UEP Vertical Farming
+
+nav:
+  - Home: index.md
+  - MQTT Guides:
+      - Setup: mqtt/setup.md
+      - Usage: mqtt/usage.md
+      - Advance Configuration: mqtt/configuration.md
+      - FAQ: mqtt/faq.md
+  - About: about.md
